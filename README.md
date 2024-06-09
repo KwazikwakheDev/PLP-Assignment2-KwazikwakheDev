@@ -8,7 +8,7 @@ Answer the following questions based on your understanding of software engineeri
 **Kwazikwakhe Mjuleka.**
 
 Questions:
-**Define Software Engineering:** 
+**Define Software Engineering:** is the sytstematic  
 What is software engineering, and how does it differ from traditional programming?
 **Software Development Life Cycle (SDLC):**
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
