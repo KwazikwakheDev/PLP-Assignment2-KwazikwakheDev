@@ -24,9 +24,9 @@ Explain the various phases of the Software Development Life Cycle. Provide a bri
 
 
 4. Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
-- **+Agile Model :** is an iterative approach and incremental approach to software development. This approach thrivees in environments where requiremnts may change and need continous customer feedback.
-- **+Waterfall model :** is an linear and sequatial approach to software developments, where each phase must be completed before moving to the next phase. The waterfall model may be preffered where all the requirements are known.
-- **Agile vs. Waterfall Models**:The Waterfall model is a structured, phase-driven approach that works well for projects with clear, stable requirements. Agile, on the other hand, is a flexible, iterative approach that thrives in environments where requirements may change and continuous customer feedback is valuable.
+- **Agile Model :** is an iterative approach and incremental approach to software development. This approach thrivees in environments where requiremnts may change and need continous customer feedback.
+- **Waterfall model :** is an linear and sequatial approach to software developments, where each phase must be completed before moving to the next phase. The waterfall model may be preffered where all the requirements are known.
+- **Agile vs. Waterfall Models**: The Waterfall model is a structured, phase-driven approach that works well for projects with clear, stable requirements. Agile, on the other hand, is a flexible, iterative approach that thrives in environments where requirements may change and continuous customer feedback is valuable.
 
 
 4. **Requirements Engineering:**
@@ -96,7 +96,7 @@ Discuss the role of a software project manager. What are some key responsibiliti
 Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
 - **Software maintenance** refers to the process of modifying and updating software after it has been deployed to ensure its continued effectiveness, usability, and reliability throughout its lifecycle.
 
-- **Types of Maintenace Activities**
+**Types of Maintenace Activities**
 - **Corrective Maintenance:** This involves fixing defects or bugs discovered in the software after it has been deployed. Corrective maintenance aims to restore the software to its intended functionality and stability.
 - **Adaptive Maintenance:** Adaptive maintenance involves modifying the software to accommodate changes in the external environment, such as operating system upgrades, hardware changes, or changes in regulations.
 - **Perfective Maintenance:** Perfective maintenance focuses on enhancing the software's functionality and performance based on user feedback or changing requirements. This may involve adding new features, improving usability, or optimizing performance.
@@ -122,7 +122,7 @@ What are some ethical issues that software engineers might face? How can softwar
 - **Advocate for ethical practices:** Encourage their employers and colleagues to prioritize ethics in software development and advocate for ethical decision-making processes within their organizations.
 - **Seek guidance when uncertain:** When faced with ethical dilemmas, seek guidance from supervisors, ethics committees, or other relevant authorities to ensure that decisions align with ethical principles.
 
-:code: :smile: :computer:
+:coding: :smile: :computer:
 
 Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
